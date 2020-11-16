@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boxjellyfishw.github.io</id>
     <title>Box Jellyfishw</title>
-    <updated>2020-11-16T09:13:26.569Z</updated>
+    <updated>2020-11-16T13:52:44.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boxjellyfishw.github.io"/>
     <link rel="self" href="https://boxjellyfishw.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://boxjellyfishw.github.io/images/avatar.png</logo>
     <icon>https://boxjellyfishw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Box Jellyfishw</rights>
+    <entry>
+        <title type="html"><![CDATA[刀音 幕末天狼传 2部 Are you ready to play 跳绳记录]]></title>
+        <id>https://boxjellyfishw.github.io/post/dao-yin-mu-mo-tian-lang-chuan-2-bu-are-you-ready-to-play-tiao-sheng-ji-lu/</id>
+        <link href="https://boxjellyfishw.github.io/post/dao-yin-mu-mo-tian-lang-chuan-2-bu-are-you-ready-to-play-tiao-sheng-ji-lu/">
+        </link>
+        <updated>2020-11-16T13:47:27.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌鸦、13与星期五]]></title>
         <id>https://boxjellyfishw.github.io/post/wu-ya-13-yu-xing-qi-wu/</id>
