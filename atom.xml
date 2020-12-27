@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boxjellyfishw.github.io</id>
     <title>Box Jellyfishw</title>
-    <updated>2020-11-25T16:49:58.584Z</updated>
+    <updated>2020-12-27T15:20:46.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boxjellyfishw.github.io"/>
     <link rel="self" href="https://boxjellyfishw.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://boxjellyfishw.github.io/images/avatar.png</logo>
     <icon>https://boxjellyfishw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Box Jellyfishw</rights>
+    <entry>
+        <title type="html"><![CDATA[小灶数据分析入门课笔记]]></title>
+        <id>https://boxjellyfishw.github.io/post/xiao-zao-shu-ju-fen-xi-ru-men-ke-bi-ji/</id>
+        <link href="https://boxjellyfishw.github.io/post/xiao-zao-shu-ju-fen-xi-ru-men-ke-bi-ji/">
+        </link>
+        <updated>2020-12-27T15:18:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好和弦Ep.158笔记]]></title>
+        <id>https://boxjellyfishw.github.io/post/hao-he-xian-ep158-bi-ji/</id>
+        <link href="https://boxjellyfishw.github.io/post/hao-he-xian-ep158-bi-ji/">
+        </link>
+        <updated>2020-12-25T07:11:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《目标感》第一章阅读笔记]]></title>
         <id>https://boxjellyfishw.github.io/post/lesslessmu-biao-gan-greatergreater-di-yi-zhang-yue-du-bi-ji/</id>
