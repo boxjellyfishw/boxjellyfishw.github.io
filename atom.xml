@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boxjellyfishw.github.io</id>
     <title>Box Jellyfishw</title>
-    <updated>2021-07-17T15:50:53.659Z</updated>
+    <updated>2022-04-01T18:01:59.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boxjellyfishw.github.io"/>
     <link rel="self" href="https://boxjellyfishw.github.io/atom.xml"/>
     <subtitle>&lt;p style=&quot;border:2px solid #e699ff&quot;&gt;一个虎彻国INFP的笔记&lt;/p&gt;</subtitle>
     <logo>https://boxjellyfishw.github.io/images/avatar.png</logo>
     <icon>https://boxjellyfishw.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Box Jellyfishw</rights>
+    <rights>All rights reserved 2022, Box Jellyfishw</rights>
 </feed>
